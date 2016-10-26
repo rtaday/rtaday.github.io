@@ -23,25 +23,113 @@
 
 &lt;p&gt;In the IP Dev rotation, I was definitely the least knowledgeable person in the room. Being a manufacturing engineering major in college, I had been exposed to some basic coding, but that was it. This was the perfect rotation for me to learn more about the IT industry and the emerging trends in the practice. It did have its challenges though. Being the least knowledgeable, I felt way behind Sam and Riane and would feel lost when the meeting topic would get more detailed, and when there were words or concepts I didn’t fully grasp. By the end of the rotation, though, I did overcome these challenges and now feel confident that I can explain things like containers, DevOps, and micro services. Below are some tips on how to be successful in IP Dev when you are an IT beginner:&lt;/p&gt;
 
-&lt;p&gt;Stay on Track with Your Tasks
-Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.&lt;/p&gt;
+&lt;h4 id=&#34;stay-on-track-with-your-tasks&#34;&gt;Stay on Track with Your Tasks&lt;/h4&gt;
 
-&lt;p&gt;Ask Your Peers
-When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.&lt;/p&gt;
+&lt;p&gt;Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.&lt;/p&gt;
 
-&lt;p&gt;Volunteer or Ask for Hands-On Examples
-I am a very visual learner, and I noticed the times I really started to grasp some of the concepts and coding around the rotation was when we were doing hands-on examples. If there’s something that interests you or something you want to learn more about, like us learning Hugo, ask Kevin for a hands on example. And, during WebEx meetings when you do live demos, if you feel as though you are the least knowledgeable, volunteer to do the demo and share your screen. That way, Kevin can walk you through anything you don’t understand.&lt;/p&gt;
+&lt;h4 id=&#34;ask-your-peers&#34;&gt;Ask Your Peers&lt;/h4&gt;
 
-&lt;p&gt;Be Responsible for Your Own Learning
-To get a better more basic understanding of a lot of the concepts, on my own time, I would watch YouTube videos that helped solidify concepts and make them easier to explain in my own words. It’s important that if you don’t understand something, you find your own resources that will appeal to your learning style. Below are links to videos that were a big help to me:
+&lt;p&gt;When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.&lt;/p&gt;
+
+&lt;h4 id=&#34;volunteer-or-ask-for-hands-on-examples&#34;&gt;Volunteer or Ask for Hands-On Examples&lt;/h4&gt;
+
+&lt;p&gt;I am a very visual learner, and I noticed the times I really started to grasp some of the concepts and coding around the rotation was when we were doing hands-on examples. If there’s something that interests you or something you want to learn more about, like us learning Hugo, ask Kevin for a hands on example. And, during WebEx meetings when you do live demos, if you feel as though you are the least knowledgeable, volunteer to do the demo and share your screen. That way, Kevin can walk you through anything you don’t understand.&lt;/p&gt;
+
+&lt;h4 id=&#34;be-responsible-for-your-own-learning&#34;&gt;Be Responsible for Your Own Learning&lt;/h4&gt;
+
+&lt;p&gt;To get a better more basic understanding of a lot of the concepts, on my own time, I would watch YouTube videos that helped solidify concepts and make them easier to explain in my own words. It’s important that if you don’t understand something, you find your own resources that will appeal to your learning style. Below are links to videos that were a big help to me:
 Links:&lt;/p&gt;
 
-&lt;p&gt;DEVOPS - &lt;a href=&#34;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&#34;&gt;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&lt;/a&gt;
-CLOUD - &lt;a href=&#34;https://www.youtube.com/watch?v=3WIJ4axzFlU&#34;&gt;https://www.youtube.com/watch?v=3WIJ4axzFlU&lt;/a&gt;
-API - &lt;a href=&#34;https://www.youtube.com/watch?v=s7wmiS2mSXY&#34;&gt;https://www.youtube.com/watch?v=s7wmiS2mSXY&lt;/a&gt;
-MIRCOSERVICES &amp;amp; HOW EVERYTHING WORKS TOGETHER-  &lt;a href=&#34;https://www.youtube.com/watch?v=Pvbr5d2mIZs&#34;&gt;https://www.youtube.com/watch?v=Pvbr5d2mIZs&lt;/a&gt;
-EXAMPLE SCENARIOS (Use left navigation for other scenarios
-) - &lt;a href=&#34;http://microservices.io/patterns/apigateway.html&#34;&gt;http://microservices.io/patterns/apigateway.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;DEVOPS
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools to Get Started</title>
+      <link>https://rtaday.github.io/post/post-02/</link>
+      <pubDate>Mon, 24 Oct 2016 10:50:28 -0500</pubDate>
+      
+      <guid>https://rtaday.github.io/post/post-02/</guid>
+      <description>
+
+&lt;h1 id=&#34;tools-to-get-started&#34;&gt;Tools to Get Started&lt;/h1&gt;
+
+&lt;p&gt;In order to get started, below are the main hub of the name and description of each application you will use throughout the IP Development rotation. Please create a login and/or download to your desktop.&lt;/p&gt;
+
+&lt;h3 id=&#34;atom&#34;&gt;Atom&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;a free and open-source text and source code editor for OS X, Linux, and Windows&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;github&#34;&gt;Github&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;web-based Git repository hosting service &lt;a href=&#34;https://github.com/&#34;&gt;https://github.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;kitematic&#34;&gt;Kitematic:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;An open-source project built to simplify and streamline using Docker on a MAc or Windows.&lt;/li&gt;
+&lt;li&gt;Automates the Docker installation and setup process&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://docs.docker.com/docker-for-windows/&#34;&gt;https://docs.docker.com/docker-for-windows/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;postman&#34;&gt;Postman&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Google Chrome app for interacting with HTTP APIs. It presents you with a friendly GUI for constructing requests and reading responses &lt;a href=&#34;https://www.getpostman.com&#34;&gt;https://www.getpostman.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;slack&#34;&gt;Slack&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cloud-based team collaboration tool
+
+&lt;ul&gt;
+&lt;li&gt;Download the web client &lt;a href=&#34;https://slack.com/downloads&#34;&gt;https://slack.com/downloads&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;visual-studio-code&#34;&gt;Visual Studio Code&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A source code editor developed by Microsoft for Windows, Linux, and macOS &lt;a href=&#34;https://code.visualstudio.com/Download&#34;&gt;https://code.visualstudio.com/Download&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;the-phoenix-project-a-novel-about-it-devops-and-helping-your-business-win-novel&#34;&gt;The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win (novel)&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kevin will provide you with an e-book version of the novel&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction: What to Expect</title>
+      <link>https://rtaday.github.io/post/post-01/</link>
+      <pubDate>Mon, 24 Oct 2016 10:23:17 -0500</pubDate>
+      
+      <guid>https://rtaday.github.io/post/post-01/</guid>
+      <description>
+
+&lt;h1 id=&#34;introduction-what-to-expect&#34;&gt;Introduction: What to Expect&lt;/h1&gt;
+
+&lt;p&gt;When first reading the name IP Development, you may (like me) at first be confused by the name and wonder what the rotation might entail. Soon after realizing that the rotation is mostly concerned with programming, software tools, and different development methodologies, the thought occurs- is this all about programming (EEK!)?  You need not worry. This rotation is catered to its participants and the overall goal of the rotation is not to try to be a coding boot camp. Instead, you will learn about the tools, programming languages, and methodologies used by Forsythe to deliver cutting edge IT solutions.&lt;/p&gt;
+
+&lt;p&gt;Have you heard about virtualization or Hybrid Cloud? Any ideas on what a container is? Have you installed a distribution of Linux?  If you answered yes to any of these questions-GREAT! If not- GREAT! Expect to leave this rotation with having a firm and solid understanding of how Forsythe delivers cutting edge IT Solutions across the spectrum of the broad IT spectrum (See Slide).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://rtaday.github.io/Slide.jpg&#34; alt=&#34;(https://rtaday.github.io/Slide.jpgg)&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After analyzing this slide you should have come to the realization that maybe your knowledge of the IT spectrum may be lacking. If you are like me, you will enter into this rotation with more questions than answers, and that is in fact encouraged (ASK QUESTIONS!) The end goal of this rotation is that you may be able to speak intelligently to this slide and explain how it applies to Forsythe’s practices.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, the goal of the rotation is to walk away with a true understanding of how IT is evolving and how development plays a major role (DevOps).&lt;/p&gt;
 </description>
     </item>
     
