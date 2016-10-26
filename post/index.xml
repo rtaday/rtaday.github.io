@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on IP Development: Knowledge Transfer</title>
+    <link>https://rtaday.github.io/post/</link>
+    <description>Recent content in Posts on IP Development: Knowledge Transfer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2016 10:50:59 -0500</lastBuildDate>
+    <atom:link href="https://rtaday.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beginner&#39;s Guide: How to be Successful in IP Dev</title>
+      <link>https://rtaday.github.io/post/post-03/</link>
+      <pubDate>Mon, 24 Oct 2016 10:50:59 -0500</pubDate>
+      
+      <guid>https://rtaday.github.io/post/post-03/</guid>
+      <description>
+
+&lt;h1 id=&#34;beginner-s-guide-how-to-be-successful-in-ip-dev&#34;&gt;Beginner’s Guide: How to be Successful in IP Dev&lt;/h1&gt;
+
+&lt;h2 id=&#34;by-erin-carreiro&#34;&gt;By: Erin Carreiro&lt;/h2&gt;
+
+&lt;p&gt;In the IP Dev rotation, I was definitely the least knowledgeable person in the room. Being a manufacturing engineering major in college, I had been exposed to some basic coding, but that was it. This was the perfect rotation for me to learn more about the IT industry and the emerging trends in the practice. It did have its challenges though. Being the least knowledgeable, I felt way behind Sam and Riane and would feel lost when the meeting topic would get more detailed, and when there were words or concepts I didn’t fully grasp. By the end of the rotation, though, I did overcome these challenges and now feel confident that I can explain things like containers, DevOps, and micro services. Below are some tips on how to be successful in IP Dev when you are an IT beginner:&lt;/p&gt;
+
+&lt;p&gt;Stay on Track with Your Tasks
+Kevin provides links to readings, podcasts, and videos, and it’s for a reason. Although you might not understand everything in them, they are great exposure, and great to relate to his meetings. It’s key to keep up with these, and even try to stay ahead of them since you will probably need more time as a beginner to learn on your own.&lt;/p&gt;
+
+&lt;p&gt;Ask Your Peers
+When I didn’t understand something, and was too embarrassed to bring it up in a meeting, I would ask Sam and Riane to explain to me how they understood it. Sometimes hearing other people’s take on concepts one on one can make things easier to grasp. The great thing about this rotation is everyone is there to learn and to help each other out.&lt;/p&gt;
+
+&lt;p&gt;Volunteer or Ask for Hands-On Examples
+I am a very visual learner, and I noticed the times I really started to grasp some of the concepts and coding around the rotation was when we were doing hands-on examples. If there’s something that interests you or something you want to learn more about, like us learning Hugo, ask Kevin for a hands on example. And, during WebEx meetings when you do live demos, if you feel as though you are the least knowledgeable, volunteer to do the demo and share your screen. That way, Kevin can walk you through anything you don’t understand.&lt;/p&gt;
+
+&lt;p&gt;Be Responsible for Your Own Learning
+To get a better more basic understanding of a lot of the concepts, on my own time, I would watch YouTube videos that helped solidify concepts and make them easier to explain in my own words. It’s important that if you don’t understand something, you find your own resources that will appeal to your learning style. Below are links to videos that were a big help to me:
+Links:&lt;/p&gt;
+
+&lt;p&gt;DEVOPS - &lt;a href=&#34;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&#34;&gt;https://www.youtube.com/watch?v=_I94-tJlovg&amp;amp;t=224s&lt;/a&gt;
+CLOUD - &lt;a href=&#34;https://www.youtube.com/watch?v=3WIJ4axzFlU&#34;&gt;https://www.youtube.com/watch?v=3WIJ4axzFlU&lt;/a&gt;
+API - &lt;a href=&#34;https://www.youtube.com/watch?v=s7wmiS2mSXY&#34;&gt;https://www.youtube.com/watch?v=s7wmiS2mSXY&lt;/a&gt;
+MIRCOSERVICES &amp;amp; HOW EVERYTHING WORKS TOGETHER-  &lt;a href=&#34;https://www.youtube.com/watch?v=Pvbr5d2mIZs&#34;&gt;https://www.youtube.com/watch?v=Pvbr5d2mIZs&lt;/a&gt;
+EXAMPLE SCENARIOS (Use left navigation for other scenarios
+) - &lt;a href=&#34;http://microservices.io/patterns/apigateway.html&#34;&gt;http://microservices.io/patterns/apigateway.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
